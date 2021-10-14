@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/maratyumagulov/Desktop/CLionProjects/3 сем/lab2/Google_tests/astroid.cpp
+iostream
+-
+lib/astroid.h
+/Users/maratyumagulov/Desktop/CLionProjects/3 сем/lab2/Google_tests/lib/astroid.h
+
+/Users/maratyumagulov/Desktop/CLionProjects/3 сем/lab2/Google_tests/lib/astroid.h
+iostream
+-
+cmath
+-
+googletest/include/gtest/gtest_prod.h
+/Users/maratyumagulov/Desktop/CLionProjects/3 сем/lab2/Google_tests/lib/googletest/include/gtest/gtest_prod.h
+
+/Users/maratyumagulov/Desktop/CLionProjects/3 сем/lab2/Google_tests/lib/googletest/include/gtest/gtest_prod.h
+
+/Users/maratyumagulov/Desktop/CLionProjects/3 сем/lab2/main.cpp
+iostream
+-
+Google_tests/lib/astroid.h
+/Users/maratyumagulov/Desktop/CLionProjects/3 сем/lab2/Google_tests/lib/astroid.h
+
